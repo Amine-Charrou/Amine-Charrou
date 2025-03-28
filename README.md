@@ -6,7 +6,7 @@ Data Scientist & AI Engineering Student
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [aminecherrou1@gmail.com](mailto:aminecherrou1@gmail.com)
-* 🧠  I'm learning deep learning and AI agents.
+* 🧠  I'm currently learning deep learning and AI agents.
 
 ### Skills
 
