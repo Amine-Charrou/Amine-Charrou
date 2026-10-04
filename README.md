@@ -6,7 +6,26 @@ Data Scientist & AI Engineering Student
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [aminecherrou1@gmail.com](mailto:aminecherrou1@gmail.com)
-* 🧠  I'm currently learning deep learning and AI agents.
+* 🧠  I'm currently building an 8-project Data & AI × Business Consulting portfolio (see below).
+
+
+### 🚀 Portfolio: Data & AI × Business Consulting
+
+A 16-week sprint of 8 projects that turn business problems into working data and AI solutions, with measured impact.
+**Data → BI → ML → GenAI → RAG & Agents → Automation → Operations → Strategy**
+
+| # | Project | What it does | Status |
+|---|---|---|---|
+| 01 | [**Retail Performance Command Center**](https://github.com/Amine-Charrou/retail-performance-command-center) | From raw transactions to the five decisions management should make next. | 🚧 |
+| 02 | [**Churn Radar — Predict, Explain, Retain**](https://github.com/Amine-Charrou/churn-radar) | Who will leave, why, and which customers are worth saving first. | 🚧 |
+| 03 | [**Credit Risk Copilot**](https://github.com/Amine-Charrou/credit-risk-copilot) | An ML model scores the risk; a grounded LLM writes the analyst's report; a human decides. | 🚧 |
+| 04 | [**Trusted Enterprise Knowledge Agent**](https://github.com/Amine-Charrou/trusted-enterprise-knowledge-agent) | Ask internal documents anything; get a cited answer, or an honest “I don't know”. | 🚧 |
+| 05 | [**AI Sales Prep Copilot**](https://github.com/Amine-Charrou/ai-sales-prep-copilot) | From a prospect's name to a meeting brief and follow-up draft in two minutes. | 🚧 |
+| 06 | [**Invoice-to-Payment AI Automation**](https://github.com/Amine-Charrou/invoice-to-payment-automation) | Map the process, redesign it with AI, prove the ROI. | 🚧 |
+| 07 | [**Supply Chain Early-Warning Tower**](https://github.com/Amine-Charrou/supply-chain-early-warning-tower) | Forecast demand and flag stockouts and late deliveries before they happen. | 🚧 |
+| 08 | [**AI Transformation Roadmap for a Moroccan Bank**](https://github.com/Amine-Charrou/ai-transformation-roadmap-moroccan-bank) | Where to start with AI, what to build first, and what it is worth. | 🚧 |
+
+🚧 scoped, in progress · ✅ done
 
 ### Skills
 
